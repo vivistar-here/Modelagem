@@ -65,7 +65,7 @@
   <body style="margin 0px; overflow: hidden">
     <a-scene vr-mode-ui="enabled: false" embedded arjs="debugUIEnabled: false">
       <a-marker present="hiro">
-        <a-image src="gato.jpg" position=" 0 0 0" rotation = "-90 0 0" width="0.7" height="1"></a-image>
+        <a-image src="kawaii.jpg" position=" 0 0 0" rotation = "-90 0 0" width="0.7" height="1"></a-image>
       </a-marker>  
       <a-entity camera></a-entity>
     </a-scene>
